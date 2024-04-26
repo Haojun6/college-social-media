@@ -1,5 +1,5 @@
 # Group-Design-Project-Group-8
-The repository for CSU44098 Group 8
+The repository for college social media
 
 ## Step By Step:
 1. Have Python installed, and Node.js.
