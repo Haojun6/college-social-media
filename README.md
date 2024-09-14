@@ -1,3 +1,11 @@
+- This is the cooperative project I involved.
+- I developed a Discord-like application in which users can connect with their course mates and engage with societies
+- I implemented real-time chatting with profanity detection and registration/authentication feature for modules/societies
+- I architected and designed frontend composition assembling a general nav-bar and a browser router
+- Technology used: JavaScript React CSS HTML5 + Python3 Flask + Firebase GoogleCalendarAPI
+- I folked this from the original repo.
+
+
 # Group-Design-Project-Group-8
 The repository for college social media
 
